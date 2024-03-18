@@ -1,0 +1,23 @@
+{
+  "name": "statuspage",
+  "version": "1.0.0",
+  "description": "A simple, easy to use statuspage.",
+  "main": "status.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrypticChat-xyz/statuspage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrypticChat-xyz/statuspage/issues"
+  },
+  "homepage": "https://github.com/CrypticChat-xyz/statuspage#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "request": "^2.88.2"
+  }
+}
